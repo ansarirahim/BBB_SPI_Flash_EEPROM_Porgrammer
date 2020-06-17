@@ -1,0 +1,8 @@
+#!/bin/sh
+if ! mount | grep -q /boot/uboot/
+then
+### echo "hi"
+###  skill <transfer_processes>
+  umount -f /boot/uboot/
+  mount -a
+fi

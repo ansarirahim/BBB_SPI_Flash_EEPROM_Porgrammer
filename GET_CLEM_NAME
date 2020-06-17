@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat /root/CLem/SAveClemFile/ClemFilePath
+## /root/CLem/REad/ReadCrc/Source_ReadCrcCCA1/crcflashcca
+

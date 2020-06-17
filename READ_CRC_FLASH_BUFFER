@@ -1,0 +1,10 @@
+#!/bin/bash
+
+file="/root/CLem/CRcFlash/crcflash"
+if [ ! -f "$file" ]
+then
+    printf "NACK\n\r"
+fi
+cat /root/CLem/CRcFlash/crcflash
+printf "\n\r"
+

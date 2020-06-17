@@ -1,0 +1,12 @@
+#!/bin/bash
+#/root/CLem/SourceFlashBufferCRC/
+#/root/CLem/SourceFlashBufferCRC/crcflashbuffer
+file="/root/CLem/SourceFlashBufferCRC/crcflashbuffer"
+#/root/CLem/REad/ReadCrc/Source_ReadCrcCCA1/crcflashcca"
+if [ ! -f "$file" ]
+then
+    printf "NACK\n\r"
+fi
+cat /root/CLem/SourceFlashBufferCRC/crcflashbuffer
+#/root/CLem/REad/ReadCrc/Source_ReadCrcCCA1/crcflashcca
+printf "\n\r"

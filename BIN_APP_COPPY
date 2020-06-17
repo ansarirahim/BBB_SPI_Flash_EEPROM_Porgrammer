@@ -1,0 +1,29 @@
+#!/bin/bash
+# mkdir /home/debian/CLem/bin
+ cp /usr/bin/A* /home/debian/CLem/bin/
+ cp /usr/bin/B* /home/debian/CLem/bin/
+ cp /usr/bin/E* /home/debian/CLem/bin/
+ cp /usr/bin/G* /home/debian/CLem/bin/
+ cp /usr/bin/H* /home/debian/CLem/bin/
+ cp /usr/bin/I* /home/debian/CLem/bin/
+ cp /usr/bin/K* /home/debian/CLem/bin/
+ cp /usr/bin/L* /home/debian/CLem/bin/
+ cp /usr/bin/M* /home/debian/CLem/bin/
+ cp /usr/bin/N* /home/debian/CLem/bin/
+cp /usr/bin/O* /home/debian/CLem/bin/
+ cp /usr/bin/P* /home/debian/CLem/bin/
+ cp /usr/bin/Q* /home/debian/CLem/bin/
+
+ cp /usr/bin/R* /home/debian/CLem/bin/
+ cp /usr/bin/S* /home/debian/CLem/bin/
+ cp /usr/bin/T* /home/debian/CLem/bin/
+
+ cp /usr/bin/U* /home/debian/CLem/bin/
+ cp /usr/bin/V* /home/debian/CLem/bin/
+
+ cp /usr/bin/W* /home/debian/CLem/bin/
+ cp /usr/bin/X* /home/debian/CLem/bin/
+
+ cp /usr/bin/Y* /home/debian/CLem/bin/
+cp /usr/bin/Z* /home/debian/CLem/bin/
+

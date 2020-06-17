@@ -1,0 +1,27 @@
+ #!/bin/bash
+cp /usr/bin/A*  /boot/uboot/CLem_Data/
+cp /usr/bin/B*  /boot/uboot/CLem_Data/
+cp /usr/bin/C*  /boot/uboot/CLem_Data/
+cp /usr/bin/D*  /boot/uboot/CLem_Data/
+cp /usr/bin/E*  /boot/uboot/CLem_Data/
+cp /usr/bin/F*  /boot/uboot/CLem_Data/
+cp /usr/bin/G*  /boot/uboot/CLem_Data/
+cp /usr/bin/H*  /boot/uboot/CLem_Data/
+cp /usr/bin/I*  /boot/uboot/CLem_Data/
+cp /usr/bin/J*  /boot/uboot/CLem_Data/
+cp /usr/bin/K*  /boot/uboot/CLem_Data/
+cp /usr/bin/L*  /boot/uboot/CLem_Data/
+cp /usr/bin/M*  /boot/uboot/CLem_Data/
+cp /usr/bin/N*  /boot/uboot/CLem_Data/
+cp /usr/bin/O*  /boot/uboot/CLem_Data/
+cp /usr/bin/P*  /boot/uboot/CLem_Data/
+cp /usr/bin/Q*  /boot/uboot/CLem_Data/
+cp /usr/bin/R*  /boot/uboot/CLem_Data/
+cp /usr/bin/S*  /boot/uboot/CLem_Data/
+cp /usr/bin/T*  /boot/uboot/CLem_Data/
+cp /usr/bin/U*  /boot/uboot/CLem_Data/
+cp /usr/bin/V*  /boot/uboot/CLem_Data/
+cp /usr/bin/W*  /boot/uboot/CLem_Data/
+cp /usr/bin/X*  /boot/uboot/CLem_Data/
+cp /usr/bin/Z*  /boot/uboot/CLem_Data/
+cp -r /root/CLem /boot/uboot/CLem_Data/

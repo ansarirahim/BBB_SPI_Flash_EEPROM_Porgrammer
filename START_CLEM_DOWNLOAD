@@ -1,0 +1,19 @@
+#!/bin/bash
+REFRESH_CLEMFILE
+INIT_CLEM_DL_FW
+INIT_CLEM_DOWNLOAD_DATA
+#/root/CLem/STart/ERase1_2/main
+ERASE_FLASH_2CCA
+UPDATE_CCA_ALL4_FLASH
+retvalue=$?
+if [ $retvalue -eq 0 ]
+then
+UPDATE_CRC_FLASH_CCA1
+UPDATE_CRC_FLASH_CCA2
+
+#GET_CRC_FLASH_CCA1
+#GET_CRC_FLASH_CCA2
+else
+echo "error"
+fi
+

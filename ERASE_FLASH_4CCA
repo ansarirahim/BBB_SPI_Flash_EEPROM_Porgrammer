@@ -1,0 +1,7 @@
+#!/bin/bash
+stty -echo
+ERASE_FLASH_CCA1
+ERASE_FLASH_CCA2
+ERASE_FLASH_CCA3
+ERASE_FLASH_CCA4
+stty echo

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+file="/root/CLem/REad/ReadCrc/Source_ReadCrcCCA1/crcflashcca"
+if [ ! -f "$file" ]
+then
+    printf "NACK\n\r"
+fi
+cat /root/CLem/REad/ReadCrc/Source_ReadCrcCCA1/crcflashcca
+printf "\n\r"
+

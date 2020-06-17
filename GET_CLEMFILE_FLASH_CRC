@@ -1,0 +1,5 @@
+#!/bin/bash
+#echo ""
+cat /root/CLem/SAveClemFlashCrc/ClemFileFlashCRC
+##root/CLem/SAveClemFlashCrc/ClemFileFlashCRC
+#echo ""

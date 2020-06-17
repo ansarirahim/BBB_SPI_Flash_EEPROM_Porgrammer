@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+/root/CLem/SEtFlashCrc/main  /root/CLem/REad/ReadCrc/Source_ReadCrcCCA2/crcflashcca

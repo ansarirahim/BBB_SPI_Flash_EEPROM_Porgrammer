@@ -1,0 +1,6 @@
+
+#/home/debian/Test6595 45 1
+#! /bin/bash
+
+VAR = "C_program '$@'"
+mv $1 $VAR
